@@ -11,7 +11,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "@saas/eslint-config"
+      "@saas/eslint-config/node"
     ]
   },
   "prettier": "@saas/prettier",
